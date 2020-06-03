@@ -142,6 +142,7 @@
 - [31. 下一个排列](middle/31.下一个排列.md)
 - [33. 搜索旋转排序数组](middle/33.搜索旋转排序数组.md)
 - [39. 组合总和](middle/39.组合总和.md)
+- [40. 组合总和II](middle/40.组合总和II.md)
 - [46. 全排列](middle/46.全排列.md)
 - [47. 全排列II](middle/47.全排列II.md)
 - [50. Pow(x,n)](middle/50.Pow(x,n).md)
